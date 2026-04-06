@@ -11,7 +11,6 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/hernandezantos/miPrimerRepo)
 
-### :zarp: Actividad reciente
+### :zap: Actividad reciente
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
